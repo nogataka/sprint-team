@@ -1,5 +1,7 @@
 # Claude Code AI Sprint Team
 
+![AI Sprint Team](docs/ai-sprint-team-header.png)
+
 Claude Code のエージェント・スキル・Hook を組み合わせた、スクラム開発を自律的に回す AI 開発チームのテンプレートです。
 
 GitHub Issues にバックログを登録し、スラッシュコマンドを実行するだけで、計画・実装・レビュー・テスト・PR 作成・振り返りまでを AI エージェントチームが自動で進めます。
